@@ -5,7 +5,8 @@ variables and methods. We'll continue to expand on building out classes by
 introducing these concepts:
 
 * Building custom class constructors
-* Building class findersBuild class operators
+* Building class finders
+* Build class operators
 * Implementing a class method which creates instances of its own class
 * Using class variables to keep track of data pertaining to a class
 
