@@ -1,6 +1,6 @@
 # Introduction to Advanced Class Methods in Ruby
 
-We've learn about building complex class objects, the `self` keyword, and class
+We've learned about building complex class objects, the `self` keyword, and class
 variables and methods. We'll continue to expand on building out classes by
 introducing these concepts:
 
